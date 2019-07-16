@@ -15,6 +15,16 @@ Right this is built with JS only but there are going to be many branches in this
   - EmberJS
   - AngularJS
   - MarkoJS
+  - MongoDB
+  - RethinkDB
 
 
 The purpose of this repository is to hold many versions of Todo list application. As I will follow along I will link above list with the branch url.
+
+| Branch | README |
+| ------ | ------ |
+| ReachJS | [ijunaid8989/todos][PlDb] |
+| VueJS | [ijunaid8989/todos][PlDb] |
+| EmberJS | [ijunaid8989/todos][PlDb] |
+| AngularJS | [ijunaid8989/todos][PlDb] |
+| MarkoJS | [ijunaid8989/todos][PlDb] |
