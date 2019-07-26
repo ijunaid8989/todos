@@ -23,7 +23,7 @@ The purpose of this repository is to hold many versions of Todo list application
 
 | Branch | README |
 | ------ | ------ |
-| ReachJS | [ijunaid8989/todos][PlDb] |
+| ReactJS | [ijunaid8989/todos][PlDb] |
 | VueJS | [ijunaid8989/todos][PlDb] |
 | EmberJS | [ijunaid8989/todos][PlDb] |
 | AngularJS | [ijunaid8989/todos][PlDb] |
